@@ -1,5 +1,5 @@
 # AutoVinc_Part
-Este proyecto nació a partir de la necesidad de crear un gran diccionario de codificación de un estudio longitudinal (Panel Políticas Públicas) de la Fundación Carles Pi y Sunyer. El script permite buscar coincidencias entre etiquetas a partir de dos archivos .xlsx usando embeddings generados por el modelo `Sentence-BERT`. El script se encarga de comparar y vincular etiquetas entre un archivo de diccionario y un archivo con datos etiquetados, mostrando los resultados más similares.
+Este proyecto nació a partir de la necesidad de crear un gran diccionario de codificación de un estudio longitudinal (Panel Políticas Públicas de Participación ciudadana) de la Fundación Carles Pi y Sunyer. El script permite buscar coincidencias entre etiquetas a partir de dos archivos .xlsx usando embeddings generados por el modelo `Sentence-BERT`. El script se encarga de comparar y vincular etiquetas entre un archivo de diccionario y un archivo con datos etiquetados, mostrando los resultados más similares.
 
 ## Requisitos
 
